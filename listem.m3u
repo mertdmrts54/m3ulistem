@@ -75,15 +75,15 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1, TV8.5
 http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d7296b88-706a-423b-85a1-54c09d9197eb.png" group-title="Yerel",TV 264
+#EXTINF:-1, TV264
 http://stream.tvcdn.net/yerel/tv-264.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="dmax" tvg-logo="https://m.yilmaztv.cc/logo/d-max.jpg?t=1702413437" tvg-id2="" group-title="ESKİ USUL",D MAX ULUSAL
+#EXTINF:-1, DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8	
-#EXTINF:-1 tvg-id="8" tvg-name="tlc" tvg-logo="https://m.yilmaztv.cc/logo/tlc.jpg?t=1702413437" tvg-id2="" group-title="ESKİ USUL",TLC ULUSAL
+#EXTINF:-1, TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="trtbelgesel" tvg-logo="https://m.yilmaztv.cc/logo/trt-belgesel.jpg?t=1697503126" tvg-id2="" group-title="EKSTRA ESKİ USUL", TRT BELGESEL EKSTRA
+#EXTINF:-1, TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="Müzik",Number One Türk
+#EXTINF:-1, NUMBER1TURK
 http://stream.tvcdn.net/muzik/number-one-turk.m3u8
 #EXTINF:-1, DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
