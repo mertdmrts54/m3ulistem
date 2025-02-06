@@ -73,14 +73,10 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTM3U
 #EXTINF:-1, TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
-
-
 #EXTINF:-1, TV8.5
 http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d7296b88-706a-423b-85a1-54c09d9197eb.png" group-title="Yerel",TV 264
 http://stream.tvcdn.net/yerel/tv-264.m3u8
-
 #EXTINF:-1 tvg-id="56" tvg-name="dmax" tvg-logo="https://m.yilmaztv.cc/logo/d-max.jpg?t=1702413437" tvg-id2="" group-title="ESKİ USUL",D MAX ULUSAL
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8	
 #EXTINF:-1 tvg-id="8" tvg-name="tlc" tvg-logo="https://m.yilmaztv.cc/logo/tlc.jpg?t=1702413437" tvg-id2="" group-title="ESKİ USUL",TLC ULUSAL
