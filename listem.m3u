@@ -37,3 +37,9 @@ https://c.fulltvizle.com/aspor/index.m3u8
 #EXTM3U
 #EXTINF:-1, HABERTÜRK
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTM3U
+#EXTINF:-1, HT SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8
+#EXTM3U
+#EXTINF:-1, NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
