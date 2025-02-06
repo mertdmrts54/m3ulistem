@@ -73,19 +73,14 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTM3U
 #EXTINF:-1, TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTM3U
-#EXTINF:-1, POWERTURK
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+
 #EXTINF:-1, TV8.5
 http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
-#EXTINF:-1, DREAM TÜRK
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1, KRAL POP TV 
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 tvg-id="389" tvg-name="kemencefm" tvg-logo="https://m.RADYO.cc/logo-radyo/kemence-fm.webp?t=1696868240" group-title="Pop RADYO",Kemenşe FM Sakarya
-https://radio-streaming.net/turkey/kemence-fm-sakarya/icecast.audio
-#EXTINF:-1 tvg-id="582" tvg-name="virginradio" tvg-logo="https://m.RADYO.cc/logo-radyo/virgin-radio.webp?t=1696868240" group-title="Pop RADYO",Virgin Radio Türkiye Adana
-https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIOAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d7296b88-706a-423b-85a1-54c09d9197eb.png" group-title="Yerel",TV 264
+http://stream.tvcdn.net/yerel/tv-264.m3u8
+
 #EXTINF:-1 tvg-id="56" tvg-name="dmax" tvg-logo="https://m.yilmaztv.cc/logo/d-max.jpg?t=1702413437" tvg-id2="" group-title="ESKİ USUL",D MAX ULUSAL
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8	
 #EXTINF:-1 tvg-id="8" tvg-name="tlc" tvg-logo="https://m.yilmaztv.cc/logo/tlc.jpg?t=1702413437" tvg-id2="" group-title="ESKİ USUL",TLC ULUSAL
@@ -94,5 +89,9 @@ https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="Müzik",Number One Türk
 http://stream.tvcdn.net/muzik/number-one-turk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d7296b88-706a-423b-85a1-54c09d9197eb.png" group-title="Yerel",TV 264
-http://stream.tvcdn.net/yerel/tv-264.m3u8
+#EXTINF:-1, DREAM TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1, KRAL POP TV 
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1, POWERTURK
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
