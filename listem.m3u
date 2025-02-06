@@ -49,3 +49,18 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTM3U
 #EXTINF:-1, POWERTURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTM3U
+#EXTINF:-1, 360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTM3U
+#EXTINF:-1, 24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTM3U
+#EXTINF:-1, A2
+https://canlitvulusal.xyz/live/a2tv/index.m3u8
+#EXTM3U
+#EXTINF:-1, HABER GLOBAL
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
+#EXTM3U
+#EXTINF:-1, TEVE2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
