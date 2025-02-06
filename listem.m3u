@@ -4,3 +4,6 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTM3U
 #EXTINF:-1, ATV
 https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
