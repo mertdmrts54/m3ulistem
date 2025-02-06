@@ -25,3 +25,9 @@ https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6q8954bl1bhp&app=7ddc255a-ef47-
 #EXTM3U
 #EXTINF:-1, NOW
 https://c.fulltvizle.com/fox/index.m3u8
+#EXTM3U
+#EXTINF:-1, TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTM3U
+#EXTINF:-1, TRT SPOR 
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
