@@ -82,7 +82,7 @@ http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1, KRAL POP TV 
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 DMAX
+#EXTINF:-1, DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
 #EXTINF:-1,Selçuk Sports - Alternatif 1
 https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_1.m3u8
