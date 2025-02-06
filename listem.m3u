@@ -39,7 +39,7 @@ https://c.fulltvizle.com/aspor/index.m3u8
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTM3U
 #EXTINF:-1, CNN TÜRK
-https://ecanlitv3.etvserver.com/cnnturk.m3u8?tkn=RHQh15NCt98h8EqE87VjsQ&tms=1707492619
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTM3U
 #EXTINF:-1, NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
@@ -48,7 +48,7 @@ https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTM3U
 #EXTINF:-1, A HABER
-https://ecanlitv3.etvserver.com/ahaber.m3u8?tkn=RHQh15NCt98h8EqE87VjsQ&tms=1707492619
+http://stream.tvcdn.net/haber/a-haber.m3u8
 #EXTM3U
 #EXTINF:-1, 360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -60,7 +60,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 https://canlitvulusal.xyz/live/a2tv/index.m3u8
 #EXTM3U
 #EXTINF:-1, HABER GLOBAL
-https://ecanlitv3.etvserver.com/haberglobal.m3u8?tkn=RHQh15NCt98h8EqE87VjsQ&tms=1707492619
+http://stream.tvcdn.net/haber/haber-global.m3u8
 #EXTM3U
 #EXTINF:-1, TEVE2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
@@ -70,11 +70,17 @@ https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
 #EXTM3U
 #EXTINF:-1, TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1, MİNİKA GO
+http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+#EXTINF:-1, MİNİKA ÇOCUK
+http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+#EXTINF:-1, TRT DİYANET ÇOCUK
+http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 #EXTM3U
 #EXTINF:-1, TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1, TV8.5
-https://ecanlitv3.etvserver.com/tv85.m3u8?tkn=RHQh15NCt98h8EqE87VjsQ&tms=1707492619	
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
 #EXTINF:-1, TV264
 http://stream.tvcdn.net/yerel/tv-264.m3u8
 #EXTINF:-1, DMAX
