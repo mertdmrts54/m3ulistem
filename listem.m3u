@@ -38,8 +38,8 @@ https://c.fulltvizle.com/aspor/index.m3u8
 #EXTINF:-1, HABERTÜRK
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTM3U
-#EXTINF:-1, HT SPOR
-https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8
+#EXTINF:-1, CNN TÜRK
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
 #EXTM3U
 #EXTINF:-1, NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
@@ -47,8 +47,8 @@ https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1, TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTM3U
-#EXTINF:-1, POWERTURK
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1, A HABER
+https://c.fulltvizle.com/ahaber/index.m3u8
 #EXTM3U
 #EXTINF:-1, 360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -64,3 +64,21 @@ https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 #EXTM3U
 #EXTINF:-1, TEVE2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTM3U
+#EXTINF:-1, CARTOON NETWORK
+https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
+#EXTM3U
+#EXTINF:-1, TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTM3U
+#EXTINF:-1, TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTM3U
+#EXTINF:-1, POWERTURK
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1, TV8.5
+http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
+#EXTINF:-1, DREAM TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1, KRAL POP TV 
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
