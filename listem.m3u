@@ -26,7 +26,7 @@ https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6q8954bl1bhp&app=7ddc255a-ef47-
 #EXTINF:-1, NOW
 https://c.fulltvizle.com/fox/index.m3u8
 #EXTINF:-1, ÜLKE TV
-https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1, TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
@@ -39,11 +39,10 @@ https://x.canlitvapp.com/aspor/index.m3u8
 #EXTM3U
 #EXTINF:-1, HABERTÜRK
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:-1, CNN TÜRK
-http://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
-#EXTM3U
-#EXTINF:-1, HT SPOR
-https://ythls.armelin.one/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
+#EXTINF:-1, TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1, TRT2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTM3U
 #EXTINF:-1, NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
