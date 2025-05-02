@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
 #EXTINF:-1, TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTM3U
