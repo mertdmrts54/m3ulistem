@@ -92,18 +92,6 @@ http://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
 http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
 #EXTINF:-1, TRT DİYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 1
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_1.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 2
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_2.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 3
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_3.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 4
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_4.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 5
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_5.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 6
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_6.m3u8
 #EXTM3U
 #EXTINF:-1, NUMBER1TURK
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
