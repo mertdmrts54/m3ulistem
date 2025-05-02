@@ -38,8 +38,12 @@ https://b.fulltvizle.com/ahaber/playlist.m3u8
 #EXTM3U
 #EXTINF:-1, A SPOR
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1, HTSPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1, TV8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1, SPORTS TV
+https://sportstv.blutv.com/blutv_sportstv2/live.m3u8
 #EXTM3U
 #EXTINF:-1, HABERTÜRK
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
@@ -83,11 +87,11 @@ https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
 #EXTINF:-1, TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1, MİNİKA GO
-http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+http://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
 #EXTINF:-1, MİNİKA ÇOCUK
 http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
 #EXTINF:-1, TRT DİYANET ÇOCUK
-http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTM3U
 #EXTINF:-1, TV264
 http://stream.tvcdn.net/yerel/tv-264.m3u8
