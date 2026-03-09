@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="Ulusal",TRT 1
+http://trtlive.trthd.com.tr/live.m3u8
+#EXTINF:-1 group-title="Ulusal",Show TV
+https://show-tv.akamaized.net/hls/live/200000/showtv/showtv.m3u8
+#EXTINF:-1 group-title="Ulusal",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 group-title="Ulusal",Kanal D
+https://kanald.live.d-smart.com.tr/kanald/kanald.m3u8
+#EXTINF:-1 group-title="Ulusal",ATV
+https://atv.live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 group-title="Haber",Haber Global
+https://haberglobal.mediatriple.net/live/haberglobal/playlist.m3u8
+#EXTINF:-1 group-title="Haber",NTV
+https://ntv-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 group-title="Spor",TRT Spor
+https://trtlive.trthd.com.tr/trtspor.m3u8
